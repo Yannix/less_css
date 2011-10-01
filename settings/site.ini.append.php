@@ -2,7 +2,7 @@
 
 
 [TemplateSettings]
-ExtensionAutoloadPath[]=simplelesscss
+ExtensionAutoloadPath[]=less_css
 
 */
 ?>

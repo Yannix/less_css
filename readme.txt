@@ -3,7 +3,7 @@ Author : Yannick Komotir @yannixk <ykomotir@gmail.com>
 eZ Publish LESS extension
 ==========================
 
-This extension enables write of stylesheet with LESS rule and compile it in an usable way.
+This extension allow you to write stylesheets according LESS syntax.
 
 LESS ( http://lesscss.org ) is a templating stylesheet language based on top of CSS. It provides numerous enhancements and features to speed up development and make its maintenance easier like mixins, nested inheritance, accessors and rules importing.
 
