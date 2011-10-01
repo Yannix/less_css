@@ -1,5 +1,3 @@
-Author : Yannick Komotir @yannixk <ykomotir@gmail.com>
-
 eZ Publish LESS extension
 ==========================
 
@@ -40,4 +38,4 @@ TO DO
 
 - @import directive support
 - support of multiple files
-- packaging
+- css compression
